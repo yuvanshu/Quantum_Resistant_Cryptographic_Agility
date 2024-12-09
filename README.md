@@ -31,8 +31,8 @@ This repository provides a Python-based framework for exploring cryptographic ag
 ## Usage ##
 To demonstrate cryptographic agility using the provided framework, run the main script:
 
-    ```bash
-    python script_name.py
+```bash
+python script_name.py
+```
     
-
 You can modify the main() function in the script to experiment with these algorithms or to integrate additional cryptographic methods.
