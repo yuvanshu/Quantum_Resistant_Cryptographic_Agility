@@ -7,7 +7,7 @@ This repository provides a Python-based framework for exploring cryptographic ag
 - **Kyber**: Post-quantum key encapsulation mechanism.
 - **Dilithium**: Post-quantum digital signatures.
 - **Krypton**: Symmetric encryption with verification support.
-- **Performance**: Benchmarking: Execution time and memory usage monitoring for cryptographic operations.
+- **Performance Benchmarking**: Execution time and memory usage monitoring for cryptographic operations.
 
 ## Setup Instructions
 
